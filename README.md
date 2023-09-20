@@ -1,2 +1,26 @@
-# super-duper-couscous
-This a my first portfolio website,just about my self
+<!DOCTYPE html>
+<head>
+    <title>My website</title>
+</head>
+<body>
+    <h2>My portfolio yanz project</h2>
+    <hr>
+    <h3>About my self</h3>
+    <img src="../My Pictures/byan image.JPEG" width="200" height="200"/>
+    <h3>This my favorite film</h3>
+    <ul>
+        <li>fast and furious</li>
+        <li>Who i am</li>
+        <li>Safe</li>
+        <li>spiderman</li>
+    </ul>
+    <h3>my self</h3>
+    <ol>
+        <li>My name is : Abyan</li>
+        <li>I was born in : Jakarta </li>
+        <li>My age is : 21</li>
+    </ol>
+    <hr>
+    <a href="contact me">contact me</a>
+
+</body>
